@@ -8,18 +8,19 @@ I work at the intersection of **quantitative evolutionary biology, population ge
 
 ### Featured Research & Code Repositories
 
+### Featured Research & Code Repositories
+
 - **[Empirical Oak Sapling Dispersal & Microhabitat Modeling](https://github.com/aybikezeybek-cell/oak-seedling-dispersal-modeling)**  
   *Spatial Ecology & Statistical Modeling (`R`, `ggplot2`, `dplyr`)*  
   First-principles geometric sector-area standardization and area-weighted Chi-square ($\chi^2$) hypothesis testing evaluating distance-decay dispersal kernels, canopy cover, and topographic slope selection in *Quercus* stands at METU Campus (2026).
 
-- **Population Genetics & Ancient DNA (aDNA) Inference Pipeline** *(In Progress)*  
-  *Evolutionary Genomics (`Bash`, `R`, `PLINK`, `AdmixTools`, `READv2`)*  
-  Reproducible command-line workflows for allele-frequency ff-statistics (f3, f4 via `qpDstat`), Multidimensional Scaling (MDS) from pairwise outgroup f3 distance matrices, and biological kinship estimation.
+- **[Population Genetics & Ancient DNA (aDNA) Inference Pipeline](https://github.com/aybikezeybek-cell/popgen-fstats-mds-pipeline)**  
+  *Evolutionary Genomics (`Bash`, `R`, `AdmixTools`, `EIGENSTRAT`, `ggrepel`)*  
+  Reproducible command-line workflows for allele-frequency $f$-statistics (outgroup-$f_3$ via `qp3Pop`, $f_4$ via `qpDstat`) across Ancient Near Eastern Neolithic populations (AADR v66), Multidimensional Scaling (MDS) from $1 - f_3$ genetic distance matrices, and jackknife gene-flow visualizations.
 
-- **Protected Area & OECM Spatial Conservation Assessments** *(In Progress)*  
+- **[Protected Area & OECM Spatial Conservation Assessments](https://github.com/aybikezeybek-cell/oecm-spatial-hotspot-analysis)** *(In Progress)*  
   *Landscape Ecology & GIS (`QGIS`, `ArcGIS Pro`, `Google Earth Pro`)*  
   Multi-site ecological, remote sensing, and customary governance evaluations under CBD Decision 14/8 criteria across Mediterranean and Eastern Anatolian landscapes (collaborating with Prof. Shonil Bhagwat, The Open University).
-
 ---
 
 ### Technical Toolkit
